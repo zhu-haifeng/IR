@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# IR
-=======
-
 
 # 奥运体育主题检索
 
@@ -16,6 +12,14 @@
 http://114.116.221.85/search.php
 
 第一次在公网开放有后端的web，希望不要被搞，还花了一百多整了两个月服务器（实付0元）。
+
+然后是这个仓库：
+
+https://github.com/zhu-haifeng/IR
+
+这个是本文html版本：
+
+https://zhu-haifeng.github.io/IR/readme.html
 
 ### description
 
@@ -194,9 +198,13 @@ http://114.116.221.85/search.php
 由于使用到的工具包过大，在这里列出使用到的所有配置文件、关键数据、前端页面：
 
 - [larbin配置文件](larbin-cn.conf)
+
 - [数据预处理脚本](parser.py)
+
 - ~~数据预处理csv(打开时应注意选择正确sd编码方式utf-8)，这个也太大了，算了，换成前2000个url~~
+
 - [前2000个url](index)
+
 - [前端页面](frontend/html/search.tpl)
 
->>>>>>> master
+  
